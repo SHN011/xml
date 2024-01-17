@@ -1,0 +1,28 @@
+1. Syntax and Structure:
+
+HTML: More forgiving, allows some flexibility in syntax (e.g., optional closing tags for some elements, case-insensitive tags and attributes).
+XHTML: Stricter, follows XML rules:
+All elements must be closed (even empty elements with /).
+All tags and attributes must be lowercase.
+Attribute values must be enclosed in quotes.
+Elements must be properly nested.
+2. Document Type Declaration (DOCTYPE):
+
+HTML: Optional, but recommended for validation and compatibility.
+XHTML: Required to specify the XHTML version and DTD.
+3. Namespace:
+
+HTML: No namespace.
+XHTML: Uses the XHTML namespace (xmlns="http://www.w3.org/1999/xhtml").
+4. Error Handling:
+
+HTML: Browsers try to display pages even with errors, potentially leading to unpredictable results.
+XHTML: Browsers may not display pages with syntax errors, enforcing better coding practices.
+5. Compatibility:
+
+HTML: Supported by all browsers.
+XHTML: Supported by most modern browsers, but older browsers might have compatibility issues.
+6. Future Development:
+
+HTML: Continues to evolve with new versions (HTML5, HTML6).
+XHTML: Development has largely stopped in favor of HTML5.
