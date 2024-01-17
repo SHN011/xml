@@ -16,7 +16,7 @@ Nesting XML ELEMENTS MUST BE NSSTED PROPERLY
 
 ENTITY REFERENCE    age &gt; 18 it is a example of ENTITY REFERENCE 
 
-> is replaced by "&gt ;"
+> is replaced by "&gt;"
 Comments    <!-- IT IS A EXAMPLE COMMANT -->
 
 White Space is not same of html
