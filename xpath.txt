@@ -1,0 +1,15 @@
+/bookstore
+/bookstore/book
+/bookstore/book/@category
+/bookstore/book/author
+/bookstore/book/price
+/bookstore/book/title
+/bookstore/book/title/@lang
+/bookstore/book/year
+/bookstore/book[2]
+/bookstore/book[2]/@category
+/bookstore/book[2]/author
+/bookstore/book[2]/price
+/bookstore/book[2]/title
+/bookstore/book[2]/title/@lang
+/bookstore/book[2]/year

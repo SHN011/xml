@@ -1,0 +1,14 @@
+<bookstore>
+    <book category="cooking">
+        <title lang="en">Everyday Italian</title>
+        <author>Dharani</author>
+        <year> 2011</year>
+        <price>30.0</price>
+    </book>
+    <book category="cooking">
+        <title lang="en">HighSchool DXD</title>
+        <author>KING oF PN</author>
+        <year> 2000</year>
+        <price>100.0</price>
+    </book>
+</bookstore>
